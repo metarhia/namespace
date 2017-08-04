@@ -1,0 +1,15 @@
+{
+  "critics": {
+    "lint": {
+      "engine": "eslint"
+    },
+    "wc": {
+      "limit": 40000
+    }
+  },
+  "test": [
+    "tests/**",
+    "test/**",
+    "doc/**"
+  ]
+}
