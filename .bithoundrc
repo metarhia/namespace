@@ -7,9 +7,5 @@
       "limit": 40000
     }
   },
-  "test": [
-    "tests/**",
-    "test/**",
-    "doc/**"
-  ]
+  "test": ["tests/**", "test/**", "doc/**"]
 }
