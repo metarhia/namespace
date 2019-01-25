@@ -11,13 +11,13 @@ $ npm install namespace
 
 ## Objects to store in namespace
 
-  - algorithms
-  - data structures
-  - modules
-  - components
-  - tools
+- algorithms
+- data structures
+- modules
+- components
+- tools
 
 ## Contributors
 
-  - Timur Shemsedinov (marcusaurelius)
-  - See github for full [contributors list](https://github.com/metarhia/metasync/graphs/contributors)
+- Timur Shemsedinov (marcusaurelius)
+- See github for full [contributors list](https://github.com/metarhia/metasync/graphs/contributors)
